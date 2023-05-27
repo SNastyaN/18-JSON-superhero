@@ -1,0 +1,15 @@
+.hero{
+    display: flex;
+    background-color: rgb(214, 192, 236);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    
+}
+.super{
+    margin: 30px;
+    padding: 15px;
+    background-color: rgb(211, 205, 205);
+    border-radius: 5%;
+    border: 5px rgb(19, 17, 17);
+    text-align: center;
+}
